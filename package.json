@@ -1,0 +1,28 @@
+{
+  "name": "intro-to-cs-by-top",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anna-Gladush/Intro-to-CS-by-TOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Anna-Gladush/Intro-to-CS-by-TOP/issues"
+  },
+  "homepage": "https://github.com/Anna-Gladush/Intro-to-CS-by-TOP#readme",
+  "dependencies": {
+    "vite": "^8.0.10",
+    "vitest": "^4.1.5"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^4.1.5"
+  }
+}
