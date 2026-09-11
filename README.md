@@ -6,10 +6,12 @@ A common repository for computer science assignments:
 
 [X] 2 - mergeSort: for <a href="https://www.theodinproject.com/lessons/javascript-recursion">Recursion</a>;
 
-3 - linked lists: for <a href="https://www.theodinproject.com/lessons/javascript-linked-lists">Linked lists</a>;
+[ ] 3 - linked lists: for <a href="https://www.theodinproject.com/lessons/javascript-linked-lists">Linked lists</a>;
 
-4 - hashmap: for <a href="https://www.theodinproject.com/lessons/javascript-hashmap">HashMap</a>;
+[ ] 4 - hashmap: for <a href="https://www.theodinproject.com/lessons/javascript-hashmap">HashMap</a>;
 
-5 - binary search tree: for <a href="https://www.theodinproject.com/lessons/javascript-binary-search-trees">Binary Search Tree</a>;
+[ ] 5 - binary search tree: for <a href="https://www.theodinproject.com/lessons/javascript-binary-search-trees">Binary Search Tree</a>;
 
-6 - knights travails: for <a href="https://www.theodinproject.com/lessons/javascript-knights-travails">Knights Travails</a>;
+[ ] 6 - knights travails: for <a href="https://www.theodinproject.com/lessons/javascript-knights-travails">Knights Travails</a>;
+
+[ ] 7 - battleship
