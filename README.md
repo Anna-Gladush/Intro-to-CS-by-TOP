@@ -1,4 +1,4 @@
-A common repository for computer science assignments:
+A common repository for computer science assignments and solving tasks:
 
 [X] 0 - git playground: for <a href="https://www.theodinproject.com/lessons/javascript-a-deeper-look-at-git">A Deeper Look at Git</a>, <a href="https://www.theodinproject.com/lessons/javascript-working-with-remotes">Working with Remotes</a>;
 
@@ -15,3 +15,9 @@ A common repository for computer science assignments:
 [ ] 6 - knights travails: for <a href="https://www.theodinproject.com/lessons/javascript-knights-travails">Knights Travails</a>;
 
 [ ] 7 - battleship
+
+[ ] 8 - euler tasks
+
+[ ] 9 - yeahub
+
+[ ] - practice
