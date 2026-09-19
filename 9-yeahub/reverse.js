@@ -1,8 +1,12 @@
 // Обращение строки или массива
 
 function reverse(input) {
-  if (typeof input === "string") return input.split("").reverse().join("");
-  if (Array.isArray(input)) return input.reverse();
+  if (typeof input === "string") {
+    return input.split("").reverse().join("");
+  }
+  if (Array.isArray(input)) {
+    return [...input].reverse();
+  }
   return input;
 }
 
