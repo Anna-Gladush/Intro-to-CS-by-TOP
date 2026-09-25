@@ -2,8 +2,8 @@
 
 function countVowels(str) {
   let count = 0;
-  str = str.toLowerCase().split("");
-  str.forEach((letter) => {
+  const new_str = str.toLowerCase().split("");
+  new_str.forEach((letter) => {
     if (["a", "e", "i", "o", "u"].includes(letter)) count++;
   });
   return count;

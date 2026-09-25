@@ -1,10 +1,10 @@
 // Подсчет количества слов в строке
 function countWords(str) {
-  str = str
+  const new_str = str
     .trim()
     .split(" ")
     .filter((elem) => elem !== "");
-  return str.length;
+  return new_str.length;
 }
 
 console.log(countWords(" Hello   world  "));

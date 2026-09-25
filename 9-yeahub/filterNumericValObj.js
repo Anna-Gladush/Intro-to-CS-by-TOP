@@ -1,8 +1,8 @@
 // Фильтрация числовых значений из массива объектов
 
 function filterNumericValues(items) {
-  items = items.filter((item) => typeof item.value === "number");
-  return items.map((item) => item.value);
+  const new_items = items.filter((item) => typeof item.value === "number");
+  return new_items.map((item) => item.value);
 }
 
 console.log(

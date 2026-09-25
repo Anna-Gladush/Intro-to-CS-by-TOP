@@ -1,13 +1,13 @@
 function formatWithApostrophe(price) {
-  price = price.toString().split("").reverse();
-  for (let i = 0; i < price.length; i++) {
+  let new_price = price.toString().split("").reverse();
+  for (let i = 0; i < new_price.length; i++) {
     if (i % 4 === 0) {
-      price.splice(i, 0, "'");
+      new_price.splice(i, 0, "'");
     }
   }
-  price = price.reverse();
-  price.pop();
-  return price.join("");
+  new_price = new_price.reverse();
+  new_price.pop();
+  return new_price.join("");
 }
 
 console.log(formatWithApostrophe(12345678));
